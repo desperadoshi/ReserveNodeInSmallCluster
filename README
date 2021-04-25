@@ -1,0 +1,1 @@
+Sometimes, you need to share a small cluster with other people and they just use all the compute nodes. ALWAYS! That is really annoying. So you want to run a small program to reserve all CPU cores on a compute node. So when you need to run a MPI test job you would have a compute node at hand. This is what this repo is for.
